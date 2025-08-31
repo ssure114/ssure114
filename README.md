@@ -1,4 +1,10 @@
 ## Hi there 👋
+## My Bio
+I’m Sreya Suresh, a UX Design major at Arizona State University with a background in architecture and interior design. \ I’ve worked across different areas of design, from being a junior architect to taking on UX/UI projects in both academic and professional settings. \ My experience includes usability testing, website redesigns, and app development with a strong focus on accessibility and user-centered design. \ I’m passionate about blending creativity with functionality, and I often draw inspiration from Indian textiles, music, and cultural motifs to bring unique perspectives into my work.
+
+📫 How to reach me : 
+
+[Linkedin](https://www.linkedin.com/in/sreya-suresh-bb6422174/)
 
 <!--
 **ssure114/ssure114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
