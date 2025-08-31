@@ -1,6 +1,6 @@
 ## Hi there 👋
 ## My Bio
-I’m Sreya Suresh, a UX Design major at Arizona State University with a background in architecture and interior design.\I’ve worked across different areas of design, from being a junior architect to taking on UX/UI projects in both academic and professional settings.\My experience includes usability testing, website redesigns, and app development with a strong focus on accessibility and user-centered design.\I’m passionate about blending creativity with functionality, and I often draw inspiration from Indian textiles, music, and cultural motifs to bring unique perspectives into my work.
+I’m Sreya Suresh, a UX Design major at Arizona State University with a background in architecture and interior design. I’ve worked across different areas of design, from being a junior architect to taking on UX/UI projects in both academic and professional settings.cMy experience includes usability testing, website redesigns, and app development with a strong focus on accessibility and user-centered design. I’m passionate about blending creativity with functionality, and I often draw inspiration from Indian textiles, music, and cultural motifs to bring unique perspectives into my work.
 
 :computer: How to reach me : 
 
